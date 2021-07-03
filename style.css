@@ -8,9 +8,9 @@ h1{
 .color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
-    padding-bottom: 150px;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
